@@ -1,0 +1,79 @@
+/* Elements */
+
+body {
+	background-color: deeppink;
+	color: black;
+	font-family: sans-serif;
+	line-height: 0;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+}
+
+.circle {
+	width: 20em;
+	height: 30em;
+	background-color: deepskyblue;
+	border-radius: 10%;
+	position: absolute;
+	left: 10%;
+	top: 10%;
+}
+
+.rectangle {
+	height: 90px;
+	width: 100%;
+	background-color: yellow;
+	transform: rotate(60deg);
+}
+
+.rectangle-2 {
+	height: 120px;
+	width: 150%;
+	background-color: mistyrose;
+	transform: rotate(-60deg);
+}
+
+.circle-2 {
+	height: 90px;
+	width: 65%;
+	background-color: blueviolet;
+}
+
+.circle-3 {
+	width: 35em;
+	height: 35em;
+	background-color: chartreuse;
+	border-radius: 20%;
+	position: absolute;
+	left: 50%;
+	top: 70%;
+}
+
+.rectangle-3 {
+	height: 120px;
+	width: 350px;
+	background-color: blue;
+	position: absolute;
+	left: 80%;
+	top: 45%;
+}
+
+.circle-4 {
+	width: 25em;
+	height: 25em;
+	background-color: blue;
+	border-radius: 40%;
+	position: absolute;
+	left: 10%;
+	top: 70%;
+}
+
+.rectangle-4 {
+	height: 120px;
+	width: 700px;
+	background-color: deepskyblue;
+	position: absolute;
+	left: 35%;
+	top: 65%;
+}
